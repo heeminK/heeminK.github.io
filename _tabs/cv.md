@@ -110,6 +110,7 @@ Certificate from Program for Basic Competence in University Pedagogy, University
 
 ## **Courses**
 **Data engineering and SQL**
+- Data Manipulation in SQL, DataCamp (2026). [certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/11b42419ab4b4621c525608a297e354f09e62453?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - Introduction to Azure, DataCamp (2026). [certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/984e3ad5f46b86eda30e54bd348594ca85b2cef6?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - Introduction to Databricks, DataCamp (2026). [certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/b46a67975a8ccb1cf312ead72d61c5b7995d6b7b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 - Introduction to SQL, DataCamp (2026). [certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/d77614834a523e1607136fe84cde987d56e587b5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
