@@ -1,7 +1,7 @@
 ---
 title: "Probabilistic reversal learning task (online demo)"
 date: 2026-11-20 09:00:00 +0100
-categories: [Research]
+categories: [Research, Experiment]
 tags: [psychopy, psychojs, reversal-learning]
 ---
 
